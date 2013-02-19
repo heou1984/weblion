@@ -1,3 +1,6 @@
+log
+.classpath
+.project
+runtime
+build
 .DS_Store
-*.class
-build/
